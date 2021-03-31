@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @farhanazman387
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning jquery.js, angular.js, css and html
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in mobile development
+- 🌱 I’m currently learning swift
+- 💞️ I’m a beginner, i want to code for funn! I mainly want to improve my skills and add new skills. Nothing to be afraid of. You only live once. hehehe
 - 📫 How to reach me : nurul.farhanazman8@gmail.com
 
 <!---
